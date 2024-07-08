@@ -1,0 +1,14 @@
+modLoader = "javafml"
+loaderVersion = "[40,)"
+license = "MIT"
+[[mods]]
+modId = "finalmod"
+version = "1.0"
+displayName = "Final Mod"
+description = "This is an example description for the Final Mod."
+[[dependencies.finalmod]]
+modId = "forge"
+mandatory = true
+versionRange = "[40,)"
+ordering = "NONE"
+side = "BOTH"

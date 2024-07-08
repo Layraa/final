@@ -1,0 +1,15 @@
+Java Launcher: C:\Program Files\Java\jdk-17\bin\java.exe
+Arguments: '--task, SRG_TO_MCP, --input, C:\Gradle\gradle-8.4\caches\modules-2\files-2.1\curse.maven\epic-fight-mod-405076\5148975\a7ea30a5cde94e74ed72a408645ac73beb94142a\epic-fight-mod-405076-5148975.jar, --output, C:\Gradle\gradle-8.4\caches\forge_gradle\deobf_dependencies\curse\maven\epic-fight-mod-405076\5148975_mapped_official_1.18.2\epic-fight-mod-405076-5148975_mapped_official_1.18.2.jar, --mcp, C:\Gradle\gradle-8.4\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.18.2\mapping-1.18.2-mapping.zip, --strip-signatures'
+Classpath:
+ - C:\Gradle\gradle-8.4\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.2.8\installertools-1.2.8-fatjar.jar
+Working directory: C:\Users\bogvi\IdeaProjects\final\build\_RenameSrg2Mcp_-1777355902
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  C:\Gradle\gradle-8.4\caches\modules-2\files-2.1\curse.maven\epic-fight-mod-405076\5148975\a7ea30a5cde94e74ed72a408645ac73beb94142a\epic-fight-mod-405076-5148975.jar
+Output: C:\Gradle\gradle-8.4\caches\forge_gradle\deobf_dependencies\curse\maven\epic-fight-mod-405076\5148975_mapped_official_1.18.2\epic-fight-mod-405076-5148975_mapped_official_1.18.2.jar
+MCP:    C:\Gradle\gradle-8.4\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.18.2\mapping-1.18.2-mapping.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Process complete

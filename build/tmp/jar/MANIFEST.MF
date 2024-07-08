@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: examplemod
+Specification-Vendor: examplemod
+Specification-Version: 1
+Implementation-Title: final
+Implementation-Version: 1.0
+Implementation-Vendor: examplemod
+Implementation-Timestamp: 2024-07-07T13:56:43+0300
+
